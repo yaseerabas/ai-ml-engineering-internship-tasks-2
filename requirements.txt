@@ -1,0 +1,9 @@
+scikit-learn
+transformers
+torch
+numpy
+
+langchain
+langchain-community
+chromadb
+streamlit
