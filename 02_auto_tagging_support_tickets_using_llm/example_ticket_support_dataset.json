@@ -1,0 +1,18 @@
+{
+    "tickets": [
+    "I was charged twice for my subscription",
+    "App crashes when I try to upload a file",
+    "I forgot my password and can't login",
+    "Please add dark mode to the app",
+    "Payment failed but money was deducted"
+    ],
+    
+    "labels": [
+    "Billing",
+    "Technical Issue",
+    "Account",
+    "Feature Request",
+    "Billing"],
+    
+    "categories": ["Billing", "Technical Issue", "Account", "Feature Request"]
+}
