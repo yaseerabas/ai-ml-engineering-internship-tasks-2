@@ -2,8 +2,17 @@ scikit-learn
 transformers
 torch
 numpy
+datasets
 
 langchain
 langchain-community
+langchain-text-splitters
+langchain-cohere
+langchain-openai
+langchain-classic
 chromadb
+tiktoken
 streamlit
+
+pypdf
+python-dotenv
